@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**sgronlund/sgronlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Sebastian and I am a developer currently situated in Uppsala, Sweden, as I am currently studying a MSc in Information Technology at [Uppsala University](https://www.uu.se/en) 🏫
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experience 🚀
+- 💻 I am currently working as a Application Developer Trainee at [Crosskey](https://www.crosskey.fi/)
+- 📖 I am also currently finishing my Bachelors Thesis, which was a collaboration with Uppsala Municipality
+  - Check out the website developed [here!](http://badvatten-temperatur.s3-website.eu-north-1.amazonaws.com/)
+- ▶️ I enjoy most thing .NET and it's the language I've used the most but I enjoy picking up stuff at random!
+ 
+#### Contact 📞
+[![LinkedIn](./img/linkedin-brands.svg)](https://www.linkedin.com/in/sebastian-gr%C3%B6nlund-2b000317a/)
+[![Email](./img/at-solid.svg)](mailto:sebastiangronlundwork@gmail.com)
