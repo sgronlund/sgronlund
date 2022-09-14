@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Sebastian and I am a developer currently situated in Uppsala, Sweden, as I am currently studying a MSc in Information Technology at [Uppsala University](https://www.uu.se/en) 🏫
+#### My name is Sebastian and I am a developer currently situated in Uppsala, Sweden, as I am currently studying a MSc in Information Technology with a specilization in Data Science at [Uppsala University](https://www.uu.se/en) 🏫
 
 #### Experience 🚀
 
