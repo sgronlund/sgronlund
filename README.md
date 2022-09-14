@@ -6,7 +6,7 @@
 
 -   💻 I am currently working as a Application Developer Trainee at [Crosskey](https://www.crosskey.fi/)
 -   📖 I am also currently finishing my Bachelors Thesis, which was a collaboration with Uppsala Municipality
-    -   Check out the website developed [here!](http://badvatten-temperatur.s3-website.eu-north-1.amazonaws.com/)
+    -   Check out the website developed [here!](https://badvatten.uppsala.se/)
 -   ▶️ I enjoy most thing .NET and it's the language I've used the most but I enjoy picking up stuff at random!
 
 #### Contact 📞
