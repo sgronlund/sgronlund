@@ -1,12 +1,11 @@
-### Hi there 👋
-
 #### My name is Sebastian and I am a developer currently situated in Uppsala, Sweden, as I am currently studying a MSc in Information Technology with a specilization in Data Science at [Uppsala University](https://www.uu.se/en) 🏫
 
 #### Experience 🚀
 
--   📖 I have recently finished my Bachelors Thesis, which was a collaboration with Uppsala Municipality
+- I have recently finished my Bachelors Thesis, which was a collaboration with Uppsala Municipality
     -   Check out the website developed [here!](https://badvatten.uppsala.se/)
--   ▶️ I enjoy most thing .NET and it's the language I've used the most but I enjoy picking up stuff at random!
+- Previous experience working in FinTech at [Crosskey](https://www.crosskey.fi/).
+- Soon to graduate, feel free to reach out in case of job enqueries or wanting help in OSS.  
 
 #### Contact 📞
 
